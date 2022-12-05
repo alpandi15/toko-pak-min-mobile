@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "962977241015",
+    "project_id": "toko-84743",
+    "storage_bucket": "toko-84743.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962977241015:android:0fe42b60eb9ff9949dba32",
+        "android_client_info": {
+          "package_name": "com.tokopakmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962977241015-23pceici2vjo4hc7ulc3rmhc46oic6v6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tokopakmin",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "962977241015-e2aifbs0hl9o9agd5mdd75cpc1p083ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI03Y2h8cHaSfOFNbkcFnHH5urjuzGEZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962977241015-e2aifbs0hl9o9agd5mdd75cpc1p083ks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
