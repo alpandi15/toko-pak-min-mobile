@@ -11,7 +11,7 @@ import {
 
 import {Colors} from 'react-native/Libraries/NewAppScreen';
 import {SafeAreaProvider} from 'react-native-safe-area-context';
-import {Button, ThemeProvider, ListItem} from 'react-native-elements';
+import {Button, ThemeProvider, ListItem, Icon} from 'react-native-elements';
 import firestore from '@react-native-firebase/firestore';
 import auth from '@react-native-firebase/auth';
 
